@@ -1,1 +1,2 @@
 # Minerva
+In this Library Management project, you can enter record of new books and fetch the details of books available at present in the library. You can issue the books to students and maintain ibrary records. Late fine is charged for students who returns the issued books after the due date.Only one book is issued to students. New book can not issued to students those who have not returned the last book.
